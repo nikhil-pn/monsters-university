@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nikhilpn725/monsters-university/static/css/main.a1643f1b.css",
+    "main.js": "/nikhilpn725/monsters-university/static/js/main.b45fbc2c.js",
+    "static/js/787.4e61ed83.chunk.js": "/nikhilpn725/monsters-university/static/js/787.4e61ed83.chunk.js",
+    "index.html": "/nikhilpn725/monsters-university/index.html",
+    "main.a1643f1b.css.map": "/nikhilpn725/monsters-university/static/css/main.a1643f1b.css.map",
+    "main.b45fbc2c.js.map": "/nikhilpn725/monsters-university/static/js/main.b45fbc2c.js.map",
+    "787.4e61ed83.chunk.js.map": "/nikhilpn725/monsters-university/static/js/787.4e61ed83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1643f1b.css",
+    "static/js/main.b45fbc2c.js"
+  ]
+}
