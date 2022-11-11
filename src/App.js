@@ -1,6 +1,7 @@
 import React from "react";
 import { ReactDOM, Component } from "react";
 import "./App.css"
+import { CardLists } from "./components/classLists/cardLists.component";
 
 class App extends Component{
   constructor(props){
@@ -17,12 +18,11 @@ class App extends Component{
   render(){
     return(
       <div className="App">
-      
-        {this.state.monster.map(user => <h1 key={user.id}> {user.name}</h1>)} 
-
+        <CardLists monster={this.state.monster} >
+       
+        </CardLists>
        <button onClick={()=>this.setState({monster: [{name : "nikhil", id: "3"}, {name : "soniya", id: "4"}]})}>Update</button>
       </div>
-
     )
   }
 }
